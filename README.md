@@ -43,10 +43,10 @@ I'm Backend Developer
 
 ------
 
-## Demo Statistics:
+<details><summary>Demo Statistics:</summary>  
 [![My statistics](https://github-readme-stats.vercel.app/api?username=xristxgod)](https://github.com/xristxgod)
 [![My demo](https://github-readme-stats.vercel.app/api/top-langs/?username=xristxgod&layout=compact)](https://github.com/xristxgod)
-
+</details>
 ------
 
 ### My favorite projects:
