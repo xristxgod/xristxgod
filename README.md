@@ -42,6 +42,9 @@ I'm Backend Developer
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/murodobriy)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muro.dobriy/)
 
+### My codewars account:
+[![codewars](https://www.codewars.com/users/xristxgod/badges/large)](https://www.codewars.com/users/xristxgod)   
+
 ------
 
 ### Demo Statistics:
