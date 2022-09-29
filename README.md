@@ -53,14 +53,9 @@ I'm Backend Developer
 ------
 
 ### My favorite projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=BINANCE-BOT-DASHBOARD)](https://github.com/xristxgod/BINANCE-BOT-DASHBOARD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=PARSER-SCRIPT)](https://github.com/xristxgod/PARSER-SCRIPT)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=MARIO2.0-GAME)](https://github.com/xristxgod/MARIO2.0-GAME)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=REFERRAL-SYSTEM)](https://github.com/xristxgod/REFERRAL-SYSTEM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=TRON-GETEWAY)](https://github.com/xristxgod/TRON-GETEWAY)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xristxgod&repo=BINANCE-BOT-DASHBOARD)](https://github.com/xristxgod/BINANCE-BOT-DASHBOARD)
 ---------
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xristxgod)](https://github.com/xristxgod)
