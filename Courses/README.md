@@ -7,7 +7,8 @@
 2. [АА - Активный Английский от Екатерины Зак для продолжающих (А2)](https://stepik.org/course/100718/syllabus)
 3. [Регулярные выражения в Python](https://stepik.org/course/107335/syllabus)
 4. [АА -Активный Английский от Екатерины Зак для продвинутых (B1/B2)](https://stepik.org/course/106639/syllabus)
-5. [Введение в сетевые технологии](https://stepik.org/course/217/syllabus)
+5. [Введение в сетевые технологии](https://stepik.org/course/58678/syllabus)
+6. [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
 
 ### 2022:
 
