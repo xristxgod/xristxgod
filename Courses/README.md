@@ -9,6 +9,7 @@
 4. [АА -Активный Английский от Екатерины Зак для продвинутых (B1/B2)](https://stepik.org/course/106639/syllabus)
 5. [Введение в сетевые технологии](https://stepik.org/course/58678/syllabus)
 6. [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
+7. [Введение в кибербезопасность](https://stepik.org/course/61595/syllabus)
 
 ### 2022:
 
