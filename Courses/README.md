@@ -3,14 +3,13 @@
 ## Passed:
 ### 2023:
 
-1. [Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336/syllabus)
-2. [АА - Активный Английский от Екатерины Зак для продолжающих (А2)](https://stepik.org/course/100718/syllabus)
-3. [Регулярные выражения в Python](https://stepik.org/course/107335/syllabus)
-4. [АА -Активный Английский от Екатерины Зак для продвинутых (B1/B2)](https://stepik.org/course/106639/syllabus)
-5. [Введение в сетевые технологии](https://stepik.org/course/58678/syllabus)
-6. [Введение в Linux](https://stepik.org/course/73/syllabus)
-7. [Введение в кибербезопасность](https://stepik.org/course/61595/syllabus)
-8. [Английский язык IT_English_Debug](https://stepik.org/course/100339/syllabus)
+1. [Регулярные выражения в Python](https://stepik.org/course/107335/syllabus)
+2. [Введение в Linux](https://stepik.org/course/73/syllabus)
+3. [Введение в кибербезопасность](https://stepik.org/course/61595/syllabus)
+4. [Английский язык IT_English_Debug](https://stepik.org/course/100339/syllabus)
+5. [Все правила английской грамматики + упражнения](https://stepik.org/course/122455/syllabus)
+6. [Бэкенд разработка на Django: с нуля до специалиста](https://stepik.org/course/125859/syllabus)
+7. [Управление вычислениями](https://stepik.org/course/1612/syllabus)
 
 ### 2022:
 
@@ -21,6 +20,10 @@
 5. [Docker для начинающих + практический опыт](https://stepik.org/course/123300/syllabus)
 6. [Грамматика английского языка для начинающих](https://stepik.org/course/94175/syllabus)
 7. [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
+8. [Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева](https://stepik.org/course/116336/syllabus)
+9. [АА - Активный Английский от Екатерины Зак для продолжающих (А2)](https://stepik.org/course/100718/syllabus)
+10. [АА -Активный Английский от Екатерины Зак для продвинутых (B1/B2)](https://stepik.org/course/106639/syllabus)
+11. [Введение в сетевые технологии](https://stepik.org/course/58678/syllabus)
 
 ### 2021:
 
