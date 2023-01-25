@@ -94,9 +94,9 @@ My stack:
 
 ## My studies:
 
-<a href="./Courses/README.md">Courses</a>
+<a href="./Courses/README.md" target="_blank">Courses</a>
 
-<a href="./Certificates/README.md">Certificates</a>
+<a href="./Certificates" target="_blank">Certificates</a>
 
 ------
 
