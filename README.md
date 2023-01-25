@@ -94,11 +94,9 @@ My stack:
 
 ## My studies:
 
-[Courses](./Courses/README.md)
-
 <a href="./Courses/README.md">Courses</a>
 
-[Certificates](./Certificates/README.md)
+<a href="./Certificates/README.md">Certificates</a>
 
 ------
 
