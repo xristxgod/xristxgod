@@ -92,6 +92,13 @@ My stack:
 
 ------
 
+## My studies:
+
+[Courses](./Courses/README.md)
+[Certificates](./Certificates/README.md)
+
+------
+
 ### My codewars account:
 [![codewars](https://www.codewars.com/users/xristxgod/badges/large)](https://www.codewars.com/users/xristxgod)
 
