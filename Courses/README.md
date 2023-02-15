@@ -10,6 +10,7 @@
 5. [Все правила английской грамматики + упражнения](https://stepik.org/course/122455/syllabus)
 6. [Бэкенд разработка на Django: с нуля до специалиста](https://stepik.org/course/125859/syllabus)
 7. [Управление вычислениями](https://stepik.org/course/1612/syllabus)
+8. [Свободное погружение в СУБД](https://stepik.org/course/70710/syllabus)
 
 ### 2022:
 
