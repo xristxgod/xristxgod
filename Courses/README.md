@@ -11,6 +11,7 @@
 6. [Бэкенд разработка на Django: с нуля до специалиста](https://stepik.org/course/125859/syllabus)
 7. [Управление вычислениями](https://stepik.org/course/1612/syllabus)
 8. [Свободное погружение в СУБД](https://stepik.org/course/70710/syllabus)
+9. [Программирование на Python [Отборный материал]](https://stepik.org/course/97411/syllabus)
 
 ### 2022:
 
