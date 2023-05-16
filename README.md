@@ -92,7 +92,7 @@ My stack:
 
 ------
 
-## My studies in [Stepik](https://stepik.org/):
+## My studies at [Stepik](https://stepik.org/):
 
 <a href="https://stepik.org/users/340828411" target="_blank">My profile</a>
 
