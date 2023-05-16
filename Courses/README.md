@@ -13,6 +13,7 @@
 8. [Свободное погружение в СУБД](https://stepik.org/course/70710/syllabus)
 9. [Программирование на Python [Отборный материал]](https://stepik.org/course/97411/syllabus)
 10. [Kubernetes для пользователей](https://stepik.org/course/99188/syllabus)
+11. [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/syllabus)
 
 ### 2022:
 
