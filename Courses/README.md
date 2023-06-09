@@ -15,6 +15,7 @@
 10. [Kubernetes для пользователей](https://stepik.org/course/99188/syllabus)
 11. [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/syllabus)
 12. [Основы Linux](https://stepik.org/course/762/syllabus)
+13. [Криптовалюты: Инструкция по применению](https://stepik.org/course/123274/syllabus)
 
 ### 2022:
 
