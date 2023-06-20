@@ -16,6 +16,7 @@
 11. [Введение в архитектуру ЭВМ. Элементы операционных систем.](https://stepik.org/course/253/syllabus)
 12. [Основы Linux](https://stepik.org/course/762/syllabus)
 13. [Криптовалюты: Инструкция по применению](https://stepik.org/course/123274/syllabus)
+14. [Основы технологии Blockchain](https://stepik.org/course/133011/syllabus)
 
 ### 2022:
 
