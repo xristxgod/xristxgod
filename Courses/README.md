@@ -31,6 +31,7 @@
 9. [АА - Активный Английский от Екатерины Зак для продолжающих (А2)](https://stepik.org/course/100718/syllabus)
 10. [АА -Активный Английский от Екатерины Зак для продвинутых (B1/B2)](https://stepik.org/course/106639/syllabus)
 11. [Введение в сетевые технологии](https://stepik.org/course/58678/syllabus)
+12. [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
 
 ### 2021:
 
