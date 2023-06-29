@@ -17,6 +17,7 @@
 12. [Основы Linux](https://stepik.org/course/762/syllabus)
 13. [Криптовалюты: Инструкция по применению](https://stepik.org/course/123274/syllabus)
 14. [Основы технологии Blockchain](https://stepik.org/course/133011/syllabus)
+15. [Веб-разработка. Frontend](https://stepik.org/course/100971/syllabus)
 
 ### 2022:
 
