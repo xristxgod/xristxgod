@@ -19,6 +19,7 @@
 14. [Основы технологии Blockchain](https://stepik.org/course/133011/syllabus)
 15. [Веб-разработка. Frontend](https://stepik.org/course/100971/syllabus)
 16. [Все о криптовалютах (BTC, ETH, DOGE, NFT)](https://stepik.org/course/129056/syllabus)
+17. [Введение в базы данных](https://stepik.org/course/551/syllabus)
 
 ### 2022:
 
