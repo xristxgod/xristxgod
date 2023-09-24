@@ -24,6 +24,7 @@
 19. [Блокчейн и Криптовалюты для начинающих: от основ до практики](https://stepik.org/course/172635/syllabus)
 20. [ИТ-инфраструктура предприятия: вводный курс](https://stepik.org/course/138538/syllabus)
 21. [HTML CSS JS](https://stepik.org/course/135466/syllabus)
+22. [Python Exclusive](https://stepik.org/course/181396/syllabus)
 
 ### 2022:
 
