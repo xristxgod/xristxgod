@@ -25,6 +25,7 @@
 20. [ИТ-инфраструктура предприятия: вводный курс](https://stepik.org/course/138538/syllabus)
 21. [HTML CSS JS](https://stepik.org/course/135466/syllabus)
 22. [Python Exclusive](https://stepik.org/course/181396/syllabus)
+23. [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 
 ### 2022:
 
