@@ -27,6 +27,7 @@
 22. [Python Exclusive](https://stepik.org/course/181396/syllabus)
 23. [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 24. [Быстрый старт в FastAPI Python](https://stepik.org/course/179694/syllabus)
+25. [Курс по backend разработке на Python](https://stepik.org/course/138258/syllabus)
 
 ### 2022:
 
