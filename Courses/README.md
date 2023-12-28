@@ -29,6 +29,7 @@
 24. [Быстрый старт в FastAPI Python](https://stepik.org/course/179694/syllabus)
 25. [Курс по backend разработке на Python](https://stepik.org/course/138258/syllabus)
 26. [Автоматизированный Telegram-канал на Python](https://stepik.org/course/176454/syllabus)
+27. [Введение в TypeScript](https://stepik.org/course/118563/syllabus)
 
 ### 2022:
 
