@@ -1,6 +1,9 @@
 # Courses:
 
 ## Passed:
+### 2024:
+1. [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
+
 ### 2023:
 
 1. [Регулярные выражения в Python](https://stepik.org/course/107335/syllabus)
