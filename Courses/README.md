@@ -4,6 +4,7 @@
 ### 2024:
 1. [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
 2. [SQLAlchemy — продвинутая работа с базой данных через Python](https://stepik.org/course/191596/syllabus)
+3. [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/course/171826/syllabus)
 
 ### 2023:
 
